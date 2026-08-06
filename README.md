@@ -1,22 +1,16 @@
 <h2> Hey there! I'm Harsh kumar.
-██████╗  █████╗ ████████╗█████╗      █████╗ ███╗   ██╗█████╗ ██╗     ██╗   ██╗████████╗██╗ ██████╗███████╗
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗██║     ╚██╗ ██╔╝╚══██╔══╝██║██╔════╝██╔════╝
-██║  ██║███████║   ██║   ███████║    ███████║██╔██╗ ██║███████║██║      ╚████╔╝    ██║   ██║██║     ███████╗
-██║  ██║██╔══██║   ██║   ██╔══██║    ██╔══██║██║╚██╗██║██╔══██║██║       ╚██╔╝     ██║   ██║██║     ╚════██║
-██████╔╝██║  ██║   ██║   ██║  ██║    ██║  ██║██║ ╚████║██║  ██║███████╗   ██║      ██║   ██║╚██████╗███████║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   ╚═╝ ╚═════╝╚══════╝
- Data Enthusiast | Passionate about transforming raw data into actionable business insights through structured problem-solving, exploratory data analysis, and visual storytelling.
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Data%20Analytics&fontSize=35&fontColor=fff&desc=Insights%20%26%20Visualization&descSize=14" width="100%" alt="Header Banner" />
+</p>
 
-🎯 About Me
-🔭 Currently Focusing On: Advanced SQL querying, exploratory data analysis with Python (pandas, numpy), and building interactive BI dashboards.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=500&height=40&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+Into+Actionable+Insights" alt="Typing SVG" />
+  </a>
+</p>
 
-🎓 Education: Pursuing a Master of Computer Applications (MCA) with a strong foundation in Computer Science and Data Analytics.
-
-💡 Analytical Approach: Guided by the Ask → Prepare → Process → Analyze → Share → Act methodology to solve complex data problems.
-
-🚀 Career Goal: Targeting the Google Data Analytics Apprenticeship to collaborate with world-class engineering and product teams on high-impact data problems.
-
-⚡ Fun Fact: I enjoy breaking down complex systems into step-by-step logic—whether optimizing SQL queries or analyzing game datasets. 
+<br />
 
 <h3>🛠 Tech Stack</h3>
 
