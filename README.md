@@ -1,6 +1,6 @@
  # Hi, I'm Harsh Kumar 👋
 
-> **Aspiring Data Analyst** | Actively learning, experimenting, and building data-driven projects.
+> **AI-Augmented Data Analyst** | Actively learning, experimenting, building data-driven projects and AI-assisted workflows.
 
 ---
 
@@ -17,6 +17,7 @@
 ### **Core Analytics & Scripting**
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python:** Data cleaning, manipulation, and exploratory data analysis using `pandas` and `numpy`.
 * ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL:** Writing queries, joining tables, filtering, and aggregating transactional data.
+* * ![Quadratic](https://img.shields.io/badge/Quadratic-5A67D8?style=flat-square&logo=python&logoColor=white) **Quadratic:** Utilizing AI-integrated hybrid spreadsheets combining Python, SQL, and formulas in an infinite grid for advanced data analysis.
 
 ### **AI Agents, Local LLMs & Productivity**
 * ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) **Ollama (Local LLMs):** Running offline open-source models (Llama/DeepSeek) for privacy-conscious data processing and script generation.
