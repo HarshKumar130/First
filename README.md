@@ -1,23 +1,30 @@
-<h2> Hey there! I'm Harsh kumar. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Harsh kumar.
+██████╗  █████╗ ████████╗█████╗      █████╗ ███╗   ██╗█████╗ ██╗     ██╗   ██╗████████╗██╗ ██████╗███████╗
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗██║     ╚██╗ ██╔╝╚══██╔══╝██║██╔════╝██╔════╝
+██║  ██║███████║   ██║   ███████║    ███████║██╔██╗ ██║███████║██║      ╚████╔╝    ██║   ██║██║     ███████╗
+██║  ██║██╔══██║   ██║   ██╔══██║    ██╔══██║██║╚██╗██║██╔══██║██║       ╚██╔╝     ██║   ██║██║     ╚════██║
+██████╔╝██║  ██║   ██║   ██║  ██║    ██║  ██║██║ ╚████║██║  ██║███████╗   ██║      ██║   ██║╚██████╗███████║
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   ╚═╝ ╚═════╝╚══════╝
+ Data Enthusiast | Passionate about transforming raw data into actionable business insights through structured problem-solving, exploratory data analysis, and visual storytelling.
 
-<h3> 👨🏻‍💻 About Me </h3>
+🎯 About Me
+🔭 Currently Focusing On: Advanced SQL querying, exploratory data analysis with Python (pandas, numpy), and building interactive BI dashboards.
 
-- 🔭 &nbsp; I’m currently learning MERN STACK Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Applications, Computer Programming and Mathematics.
-- 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee and little bit of relax apart from work can be the ultimate solution for any stress. 
+🎓 Education: Pursuing a Master of Computer Applications (MCA) with a strong foundation in Computer Science and Data Analytics.
+
+💡 Analytical Approach: Guided by the Ask → Prepare → Process → Analyze → Share → Act methodology to solve complex data problems.
+
+🚀 Career Goal: Targeting the Google Data Analytics Apprenticeship to collaborate with world-class engineering and product teams on high-impact data problems.
+
+⚡ Fun Fact: I enjoy breaking down complex systems into step-by-step logic—whether optimizing SQL queries or analyzing game datasets. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Canva
+## 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,html,css,git,github,vscode,tableau" alt="Tech Stack Icons" />
+</p>
 <br>
 </br>
 <h3> 🤝🏻 Connect with Me </h3>
