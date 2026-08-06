@@ -1,6 +1,4 @@
-<h2> Hey there! I'm Harsh kumar.
- 
-# Hi, I'm Harsh Kumar 👋
+ # Hi, I'm Harsh Kumar 👋
 
 > **Aspiring Data Analyst** | Actively learning, experimenting, and building data-driven projects.
 
@@ -19,6 +17,11 @@
 ### **Core Analytics & Scripting**
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python:** Data cleaning, manipulation, and exploratory data analysis using `pandas` and `numpy`.
 * ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL:** Writing queries, joining tables, filtering, and aggregating transactional data.
+
+### **AI Agents, Local LLMs & Productivity**
+* ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) **Ollama (Local LLMs):** Running offline open-source models (Llama/DeepSeek) for privacy-conscious data processing and script generation.
+* ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white) **Claude & Wrappers:** Utilizing high-reasoning LLM APIs and wrappers for complex SQL query generation, data transformations, and logic validation.
+* ![VS Code](https://img.shields.io/badge/VS_Code_Agents-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Manus](https://img.shields.io/badge/Manus_AI-10B981?style=flat-square&logo=openai&logoColor=white) **Agentic AI & Coding Agents:** Leveraging autonomous AI agents (Manus, VS Code AI agents) to scaffold analytics projects, automate debugging, and accelerate exploratory data workflows.
 
 ### **Data Visualization & Reporting**
 * ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI / Tableau:** Learning interactive dashboard design, data modeling, and KPI tracking.
